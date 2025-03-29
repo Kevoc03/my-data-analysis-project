@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🏥 Healthcare Data Analysis Project
 📊 Project Overview
 
@@ -48,3 +49,16 @@ This project explores trends in medical conditions, patient demographics, and he
 
     (If applicable) A predictive model was tested to analyze potential risk factors for specific conditions.
     Clone the Repository
+<<<<<<< HEAD
+=======
+git clone https://github.com/your-username/your-repo.git
+cd your-repo
+Install dependencies (if needed):
+pip install -r requirements.txt
+Open the Jupyter Notebook:
+jupyter notebook
+Run the data_analysis.ipynb notebook to explore the insights.
+=======
+>>>>>>> c769b54 (Updated README with project details)
+
+>>>>>>> 92ab31a (Updated README with project details)
